@@ -1,5 +1,5 @@
-I prolly do not know what I am getting myself into but I'd rather die trying. I came fresh from Mr. Tanenbaum's Modern Operating Systems Cha.1
-I am the kind of lazy programmer that pulls up a markdown cheatsheet to write this file. Hence, it suffices to say, heck, I do not know what I am doing 
+I prolly do not know what I am getting myself into but I'd rather die trying. I came fresh from Mr. Tanenbaum's Modern Operating Systems Cha.1.
+I am the kind of lazy programmer that pulls up a markdown cheatsheet to write this file. Hence, it suffices to say, heck, I do not know what I am doing. 
 I took my University's Operating Systems course nearly 3 years ago. I've worked with RTOS somewhat.
 
 
