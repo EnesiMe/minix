@@ -3,7 +3,7 @@ I am the kind of lazy programmer that pulls up a markdown cheatsheet to write th
 I took my University's Operating Systems course nearly 3 years ago. I've worked with RTOS somewhat.
 
 
-## **Let's Talk Goals!**  ##
+* ## **Let's Talk Goals!**  ## *
 
 * I want MINIX (the educational operating system) to run on Raspberry Pi (specifically zero 2W, zero, 3,4,5)
 * I want to emulate games on MINIX
